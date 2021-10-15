@@ -4,3 +4,12 @@ start3secondtimer
 (s)tomovebackwards
 (a)tomoveleft
 (d)tomoveright
+spawnrectangle5x20
+spawnrectangle5x20
+spawnrectangle5x20
+spawnrectangle5x20
+spawnrectangle5x20
+spawnrectangle5x20
+(spacebar)move50pixelsup
+spawnrectangle90x60
+whentouch(spawnrectangle90x60)endgame
